@@ -1,6 +1,9 @@
+
 {
-  "name": "TETHER TOKEN",
-  "symbol": "USDT",
-  "decimals": 18,
-  "logo": "https://my-site.on.fleek.co/logo.png"
+    "name": "TETHER TOKEN",
+    "symbol": "USDT",
+    "decimals": 18,
+    "description": "A sample token for Trust Wallet",
+    "website": "https://mytoken.com",
+    "logo": "https://ibb.co/rR0w0GzN"
 }
